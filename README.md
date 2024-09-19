@@ -1,5 +1,7 @@
 Learning About Linux - gulsaifi
+
 Introduction
+
 This paper will be, in general, a detail about Linux, its development in historical aspects, different distributions available, and some basic commands that comprise it. It must suffice for anyone interested in venturing into the world of Linux.
 
 Section 1: Linux History
