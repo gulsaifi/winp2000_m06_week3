@@ -13,16 +13,31 @@ Section 2: Linux Distros
 Linux distributions, also called "distros," are complete operating systems built on top of the Linux kernel. They contain all the essential components: the bootloader, initialization system, graphical server, and applications. Some popular distributions include :
 
 Ubuntu: friendlier with its interface and enjoys the best community support.
+
 Debian: famous for stability and the huge amount of software available.
+
 Fedora: Of the very latest, it's also a testing bed for Red Hat Enterprise Linux.
+
 Arch Linux: Favored for being very simple and highly customizable.
+
 Each distribution serves a different purpose, either for out-of-the-box usefulness or heavily tuned for total power, and there are differences in package management and default software.
 
 Part 3: Simple Linux Commands
+
 Mastering basic Linux commands is essential for efficient system navigation and management. Key commands include:
 
 ls: Lists the files and directories.
+
 cd: Changes the current directory.
+
 pwd: shows the current working directory.
+
 mkdir: It creates a new directory.
-cp: It copies the files/directories. mv: rename files or directories, or move files. rm: Removes files or directories. sudo: Run a command as the superuser. These commands are fundamental for working with a Linux command line.
+
+cp: It copies the files/directories.
+
+mv: rename files or directories, or move files. rm: Removes files or directories. 
+
+sudo: Run a command as the superuser.
+
+These commands are fundamental for working with a Linux command line.
